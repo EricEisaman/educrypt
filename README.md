@@ -1,6 +1,6 @@
 # Encryption-Decription tool
 A website to demonstrate how text can be AES encrypted on the client side using CryptoJS  
-https://ttb3ar.github.io/educrypt/  
+https://ericeisaman.github.io/educrypt/  
   
 **Features include:**  
 Light/Dark theme toggling  
